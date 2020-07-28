@@ -1,3 +1,4 @@
 This is Version One of GITPractise.
 This is Version Two of GITPractise.
 This is Version Three of GITPractise. (From GitHub)
+Trying File Staging.
