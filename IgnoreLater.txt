@@ -1,1 +1,6 @@
 Will git ignore this document later?
+
+Observation:
+1. The file was not moved to staging area if it was mentioned in .gitignore file
+2. If the .gitignore file is modified after the document was moved to staging area, changes wont be reflected.
+3. Checking if these observations are added by Pull request on CLI.
