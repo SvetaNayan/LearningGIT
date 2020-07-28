@@ -6,4 +6,6 @@ Observation:
 3. Checking if these contents are added by Pull request on CLI.
     Obs:
 	The contents added through github were pulled and modified on desktop through CLI.
-Verifying if these changes will be updated, since .gitignore file had this document included to be ignored.
+	a. Verify if these changes will be updated, since .gitignore file had this document included to be ignored.
+	Obs: 
+	    The changes were considered by git, even if this doc was included in .gitignore
